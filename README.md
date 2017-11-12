@@ -1,2 +1,2 @@
-formBranchA
+formBranchA fromBranchB
 formBranchA1
